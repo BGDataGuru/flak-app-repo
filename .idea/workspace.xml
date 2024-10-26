@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12d9fd85-87a2-474f-b262-ed2d0fbf70fd" name="Changes" comment="Created GitHub Action">
+    <list default="true" id="12d9fd85-87a2-474f-b262-ed2d0fbf70fd" name="Changes" comment="testing github actions">
       <change beforePath="$PROJECT_DIR$/test_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,13 +126,22 @@
       <option name="project" value="LOCAL" />
       <updated>1729932158036</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="testing github actions">
+      <option name="closed" value="true" />
+      <created>1729932502885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729932502885</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is base code" />
     <MESSAGE value="Modified to include testing of POST API" />
     <MESSAGE value="Created GitHub Action" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created GitHub Action" />
+    <MESSAGE value="testing github actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing github actions" />
   </component>
 </project>

@@ -19,5 +19,4 @@ def test_post(client):
                       json = {"id": 3, "name": "Bhavesh Gawade", "email": "bhavesh.gawade@gmail.com"})
 
     res_json = res.get_json()
-    #assert res.status_code == 201
-    assert res.status_code == 202
+    assert res.status_code == 201

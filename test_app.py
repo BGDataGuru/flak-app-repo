@@ -14,3 +14,9 @@ def test_home(client):
     assert res_json[0]['id'] == 1
     assert res_json[0]['email'] =='john@example.com'
 
+def test_post(client):
+    res = client.post("/users",
+                      json = {"id": 3, "name": "Bhavesh Gawade", "email": "bhavesh.gawade@gmail.com"})
+
+    res_json = res.get_json()
+    assert res.status_code == 201

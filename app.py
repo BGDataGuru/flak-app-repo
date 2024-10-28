@@ -6,7 +6,8 @@ app = Flask(__name__)
 users = [
     {"id": 1, "name": "John Doe", "email": "john@example.com"},
     {"id": 2, "name": "Jane Doe", "email": "jane@example.com"},
-    {"id": 3, "name": "Bhavesh G", "email": "bhavesh.gawade@gmail.com"}
+    {"id": 3, "name": "Bhavesh G", "email": "bhavesh.gawade@gmail.com"},
+    {"id": 4, "name": "BG", "email": "bhaveshg@fss.co.in"}
 ]
 
 # Get all users

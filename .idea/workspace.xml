@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12d9fd85-87a2-474f-b262-ed2d0fbf70fd" name="Changes" comment="testing github actions">
-      <change afterPath="$PROJECT_DIR$/flask_app_task.json" afterDir="false" />
+    <list default="true" id="12d9fd85-87a2-474f-b262-ed2d0fbf70fd" name="Changes" comment="Impleted GitHub actions for CD">
       <change beforePath="$PROJECT_DIR$/.github/workflows/automate.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/automate.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
@@ -151,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729932609079</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Impleted GitHub actions for CD">
+      <option name="closed" value="true" />
+      <created>1730132126814</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730132126814</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +166,7 @@
     <MESSAGE value="Modified to include testing of POST API" />
     <MESSAGE value="Created GitHub Action" />
     <MESSAGE value="testing github actions" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing github actions" />
+    <MESSAGE value="Impleted GitHub actions for CD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Impleted GitHub actions for CD" />
   </component>
 </project>

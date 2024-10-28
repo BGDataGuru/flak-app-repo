@@ -89,6 +89,5 @@
     },
     "registeredAt": "2024-10-28T15:54:56.982Z",
     "registeredBy": "arn:aws:sts::978423515876:federated-user/13batchsclaeraws7",
-    "enableFaultInjection": false,
     "tags": []
 }

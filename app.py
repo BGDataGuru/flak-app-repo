@@ -5,7 +5,8 @@ app = Flask(__name__)
 # Sample data
 users = [
     {"id": 1, "name": "John Doe", "email": "john@example.com"},
-    {"id": 2, "name": "Jane Doe", "email": "jane@example.com"}
+    {"id": 2, "name": "Jane Doe", "email": "jane@example.com"},
+    {"id": 3, "name": "Bhavesh G", "email": "bhavesh.gawade@gmail.com"}
 ]
 
 # Get all users
